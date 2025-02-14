@@ -6,7 +6,7 @@
 **Professional video templates for popular editors - completely free!**  
 Perfect for videographers, editors, and content creators.
 
-![Banner]([https://imgur.com/a/Cx6gdTf](https://i.imgur.com/wxlsv2r.png)) 
+![Banner](https://i.imgur.com/wxlsv2r.png) 
 *Replace with your actual website banner*
 
 ## 🚀 Template Categories
