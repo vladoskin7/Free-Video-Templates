@@ -7,32 +7,31 @@
 Perfect for videographers, editors, and content creators.
 
 ![Banner](https://i.imgur.com/wxlsv2r.png) 
-*Replace with your actual website banner*
 
 ## 🚀 Template Categories
 
-### [Adobe After Effects →](https://yourwebsite.com/after-effects)
+### [Adobe After Effects →](https://motionitems.com/browse/free-after-effects-templates/)
 - Animated intros
 - Cinematic titles
 - Motion graphics
 - Transitions & effects
 - Shape animations
 
-### [Adobe Premiere Pro →](https://yourwebsite.com/premiere-pro)
+### [Adobe Premiere Pro →](https://motionitems.com/browse/free-premiere-pro-templates/)
 - YouTube intros
 - Text animation templates
 - Color grading LUTs
 - Audio transitions
 - Slideshow templates
 
-### [DaVinci Resolve →](https://yourwebsite.com/davinci-resolve)
+### [DaVinci Resolve →](https://motionitems.com/browse/free-davinci-resolve-templates/)
 - Cinematic color presets
 - Animated overlays
 - Netflix-style titles
 - Streaming widgets
 - Editing macros
 
-### [Final Cut Pro →](https://yourwebsite.com/final-cut-pro)
+### [Final Cut Pro →](https://motionitems.com/browse/free-final-cut-pro-templates/)
 - Modern title packs
 - Social media templates
 - Audio visualizers
